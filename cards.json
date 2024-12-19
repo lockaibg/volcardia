@@ -1,0 +1,82 @@
+[
+  {
+    "source_illustration": "illustrationCartes/openart-image_CshMG4oU_1734001232572_raw-1734632529385.png",
+    "nom": "Tiefflin",
+    "effet": "Au début du duel : Vous  gagnez 3 PV, vous gagnez 4 AB, pour le reste de la partie : 1 fois par tours, après avoir lancer un sort : vous : vous gagnez 1 énergie.",
+    "type": "RACE",
+    "energie": 2,
+    "fond": "fond de carte/commun.png",
+    "attaque": 4,
+    "defense": 2
+  },
+  {
+    "source_illustration": "illustrationCartes/openart-image_LZFSScA7_1734002020640_raw-1734633029068.png",
+    "nom": "Elfe",
+    "effet": "Au début du duel : Vous perdez  5 PV, et vous gagnez 3 AB, pour le reste de la partie : Une fois par tour, pendant le tour de l’adversaire, vous pouvez annuler l’effet d’un sort en payant son coût en énergie au  début de votre prochain  tour.",
+    "type": "RACE",
+    "energie": 1,
+    "fond": "fond de carte/commun.png",
+    "attaque": 3,
+    "defense": 1
+  },
+  {
+    "source_illustration": "illustrationCartes/humain-1734633301759.png",
+    "nom": "Humain",
+    "effet": "Au début du duel vous  gagnez 4 PV, et vous gagnez 4 AB, Vous commencez la partie au niveau 3.",
+    "type": "RACE",
+    "energie": 2,
+    "fond": "fond de carte/commun.png",
+    "attaque": 3,
+    "defense": 3
+  },
+  {
+    "source_illustration": "illustrationCartes/humain-1734634342414.png",
+    "nom": "Halfelin",
+    "effet": "Au début du duel vous  gagnez 5 PV, et vous gagnez 4 AB, Vous gagnez l'effet : les premiers dégâts que vous subissez à chaque tour sont réduis à 0.",
+    "type": "RACE",
+    "energie": 1,
+    "fond": "fond de carte/commun.png",
+    "attaque": 1,
+    "defense": 2
+  },
+  {
+    "source_illustration": "illustrationCartes/nain-1734634693988.png",
+    "nom": "Nain",
+    "effet": "Au début du duel : Vous  gagnez 10 PV, vous gagnez 5 AB.",
+    "type": "RACE",
+    "energie": 3,
+    "fond": "fond de carte/commun.png",
+    "attaque": 1,
+    "defense": 5
+  },
+  {
+    "source_illustration": "illustrationCartes/gnomevrai-1734634725876.png",
+    "nom": "Gnome",
+    "effet": "Au début du duel : Vous gagnez  3 PV, vous gagnez 4 AB, pour le reste de la partie une fois par tour, lorsque vous jouez une créature : vous pouvez lui donner +2 A et +1 PV.",
+    "type": "RACE",
+    "energie": 1,
+    "fond": "fond de carte/commun.png",
+    "attaque": 2,
+    "defense": 1
+  },
+  {
+    "source_illustration": "illustrationCartes/orc-1734634777274.png",
+    "nom": "Orc",
+    "effet": "Au début du duel : Vous  gagnez 4 AB, pour le reste de la partie ; une fois par tours, lorsqu’une de vos créature vas tomber inconsciente elle reviens à 1 PV.",
+    "type": "RACE",
+    "energie": 3,
+    "fond": "fond de carte/commun.png",
+    "attaque": 3,
+    "defense": 5
+  },
+  {
+    "source_illustration": "illustrationCartes/openart-image_lD0VwpIO_1734001671888_raw-1734631690135.png",
+    "nom": "Drakéide",
+    "effet": "Au début du duel : Vous  gagnez 3 AB, pour le reste de la partie : Pendant votre phase de jeu vous pouvez dépenser 3 mana, sélectionnez 3 créatures adverse elles subissent 2 dégâts.",
+    "type": "RACE",
+    "energie": 2,
+    "fond": "fond de carte/commun.png",
+    "attaque": 3,
+    "defense": 4
+  }
+]
